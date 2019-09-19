@@ -1,5 +1,5 @@
-This project was created by Jamal and Ricardo
+This project was created by Jamal
 
-## Clock from scratch using Vanilla Javascript
+## Real-Time Clock from scratch using Vanilla Javascript
 
 
